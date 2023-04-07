@@ -1,4 +1,4 @@
-.action {
+.main-action {
 
     display: inline-flex;
 
@@ -20,7 +20,7 @@
 
 
 
-.action::before {    /* :: = pseudo elemento */
+.main-action::before {    /* :: = pseudo elemento */
 
     content: "" ;
 
