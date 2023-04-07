@@ -1,4 +1,4 @@
-.button {
+.main-button {
 
     display: inline-block;
 
@@ -26,7 +26,7 @@
 
 
 
-.button:hover {
+.main-button:hover {
 
     transform: scale(1.1);
 
