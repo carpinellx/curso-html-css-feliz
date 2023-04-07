@@ -1,4 +1,4 @@
-.banner {
+.main-banner {
 
     box-sizing: border-box;
 
@@ -18,7 +18,7 @@
 
 
 
-.banner .wrapper {
+.main-banner .wrapper {
 
     display: flex;
 
@@ -30,7 +30,7 @@
 
 
 
-.banner .box {
+.main-banner .box {
 
     margin-bottom: 40px;
 
@@ -38,7 +38,7 @@
 
 
 
-.banner .navigation {
+.main-banner .navigation {
 
     display: flex;
 
