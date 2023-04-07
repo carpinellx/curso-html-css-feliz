@@ -1,4 +1,4 @@
-.box {
+.main-box {
 
     display: inline-block;
 
@@ -14,7 +14,7 @@
 
 
 
-.box .title {
+.main-box .title {
 
     margin-bottom: 21px;
 
